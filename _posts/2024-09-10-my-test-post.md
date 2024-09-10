@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test Post"
+title: "Analyses of Accomodation bookings in Seattle"
 date: 2024-09-10 11:52:00 +0000
 published: true
 ---
