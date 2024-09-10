@@ -4,3 +4,13 @@ author: IGross2022
 theme: jekyll-theme-cayman
 
 github_username: IGross2022
+
+nav_links:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about"
+  - name: "Blog"
+    link: "/blog"
+  - name: "Contact"
+    link: "/contact"
